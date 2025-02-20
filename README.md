@@ -1,2 +1,2 @@
-# ODOO- ERP Module
+# ODOO - ERP Module
 Odoo module in python
